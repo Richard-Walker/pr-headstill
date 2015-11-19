@@ -1,3 +1,3 @@
 # pr-headstill
 
-A personal trainer for pool
+A personal trainer for staying still when playing pool.
